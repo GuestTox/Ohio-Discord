@@ -1,0 +1,15 @@
+How to use:
+	1 - Open Server.exe in serverfiles/Open the Server shortcut
+	2 - Open Client.exe in clientfiles/Open the Client shortcut
+
+Aaaand, you're done!
+
+WARNING: 
+	This doesn't work with other people over the internet, it only works locally.
+
+If you want other devices to connect with you (CONNECTED WITH THE SAME WIFI/ROUTER):
+	Open the Client.exe or the Client shortcut on the other device.
+
+Made by GuestTox.
+
+Thank you.
