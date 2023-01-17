@@ -1,7 +1,7 @@
 {
     "Apps": [
     {
-        "Name": "FNF: Python",
+        "Name": "fnfpy",
         "Type": "Game",
         "File Name": "FNF.Python.Edition.zip",
         "Download URL": "https://github.com/GuestTox/FNFPython/releases/download/v0.3/FNF.Python.Edition.zip"
