@@ -1,6 +1,6 @@
-# What is ASSCord?
+# What is Ohio discord?
 
-ASSCord is a discord knock off made with my ass (litterally)
+Discord but from Ohio.
 
 # Can I use it?
 
